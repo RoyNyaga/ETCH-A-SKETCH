@@ -1,0 +1,1 @@
+Etch a sketch is an assignment done for the odin project.
